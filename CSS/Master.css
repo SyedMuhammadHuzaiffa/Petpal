@@ -1,0 +1,65 @@
+p {
+    font-size: larger;
+}
+
+.navbar {
+    background-color: rgb(80, 117, 214) !important;
+    min-height: 40px;
+}
+
+.navbar-brand {
+    font-weight: bolder;
+    font-size: 1.5rem;
+    padding: 0 50px !important;
+    position: relative;
+    bottom: 10px;
+}
+
+.only-link {
+    padding: 0 52px !important;
+    font-weight: normal;
+    font-size: 1.25rem;
+    min-width: 70px;
+    min-height: 35px;
+    align-items: center;
+
+
+}
+
+.only-link:hover {
+    border-bottom: 5px solid white;
+    color: white;
+}
+
+.btn-secondary {
+    background-color: rgb(156, 167, 226) !important;
+    margin-left: 10px;
+}
+
+.btn-secondary:hover {
+    border: none;
+    box-shadow: 0 12px 16px 0 rgba(156, 167, 226, 0.10), 0 17px 50px 0 rgba(156, 167, 226, 0.19);
+}
+
+footer {
+    align-items: center;
+    background-color: rgb(80, 117, 214) !important;
+    padding: 50px 200px;
+}
+
+.card-footer {
+    background-color: rgb(156, 167, 226) !important;
+    padding: 20px;
+
+}
+
+.footer-button {
+    margin-top: 20px;
+    background-color: rgb(80, 117, 214) !important;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.footer-links {
+    text-decoration: none !important;
+}

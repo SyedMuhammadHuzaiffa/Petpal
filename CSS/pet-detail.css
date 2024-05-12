@@ -1,0 +1,79 @@
+.head-div {
+    padding: 10px 50px;
+    background: rgb(156, 168, 229);
+    background: linear-gradient(90deg, rgba(156, 168, 229, 1) 0%, rgba(115, 115, 116, 1) 100%);
+}
+
+.head-div-text {
+    padding-top: 20px;
+    padding-right: 0;
+}
+
+.head-div-images {
+    text-align: right;
+}
+
+.paw-print-right {
+    transform: rotate(-45deg);
+}
+
+.paw-print-left {
+    position: relative;
+    bottom: 20px;
+}
+
+.pet-detail-div {
+    padding: 50px 100px;
+}
+
+.pet-detail-name {
+    color: rgb(80, 117, 214);
+    color: linear-gradient(90deg, rgba(80, 117, 214, 1) 0%, rgba(42, 61, 112, 1) 100%);
+}
+
+.pet-detail-para {
+    padding: 20px 0;
+}
+
+.pet-detail-type {
+    font-size: 1.5rem;
+}
+
+.pet-detail-weight {
+    font-size: 1.5rem;
+}
+
+.pet-detail-breed {
+    font-size: 1.5rem;
+
+}
+
+.pet-detail-tag {
+    font-size: 1.5rem;
+}
+
+.pet-detail-safe {
+    font-size: 1.5rem;
+}
+
+.pet-detail-description {
+    margin-bottom: 50px;
+}
+
+.pet-detail-owner-details {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.booking-button {
+    background: rgb(80, 117, 214) !important;
+    background: linear-gradient(90deg, rgba(80, 117, 214, 1) 0%, rgba(42, 61, 112, 1) 100%) !important;
+    min-width: 150px;
+    margin: 20px 0;
+    font-weight: bolder;
+    font-size: large;
+}
+
+.booking-button:hover {
+    box-shadow: 0 12px 16px 0 rgba(53, 101, 221, 0.44), 0 17px 50px 0 rgba(53, 101, 221, 0.19) !important;
+}
