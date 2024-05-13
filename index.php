@@ -291,10 +291,6 @@
                 echo "<td class='border  border-blue-800 px-4 py-2'>".$row['name']."</td>";
                 echo "<td class='border px-4 py-2  border-blue-800'>".$row['phone']."</td>";
                 echo "<td class='border px-4 py-2  border-blue-800'>".$row['email']."</td>";
-                // echo "<td class='border px-4 py-2  border-green-800'>".$row['Growth']."</td>";
-                // echo "<td class='border px-4 py-2  border-green-800'>".$row['WateringNeeds']."</td>";
-                // echo "<td class='border px-4 py-2  border-green-800'>".$row['SunlightRequirements']."</td>";
-                // echo "<td class='border px-4 py-2  border-green-800'>".$row['FertilizerRequirements']."</td>";
 
 				
 				echo "<td class='border px-4 py-2 border-green-800'>
