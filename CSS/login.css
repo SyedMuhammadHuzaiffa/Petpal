@@ -1,0 +1,64 @@
+.head-div {
+    padding: 10px 50px;
+    background: rgb(156, 168, 229);
+    background: linear-gradient(90deg, rgba(156, 168, 229, 1) 0%, rgba(115, 115, 116, 1) 100%);
+}
+
+.head-div-text {
+    padding-top: 20px;
+    padding-right: 0;
+}
+
+.head-div-images {
+    text-align: right;
+}
+
+.paw-print-right {
+    transform: rotate(-45deg);
+}
+
+.paw-print-left {
+    position: relative;
+    bottom: 20px;
+}
+
+.login-div {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background: rgb(156, 168, 229);
+    background: linear-gradient(180deg, rgba(80, 117, 212, 1) 0%, rgba(42, 62, 113, 1) 100%);
+    max-width: 600px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+.login-form {
+    text-align: left;
+    background: rgb(156, 168, 229);
+    background: linear-gradient(180deg, rgba(80, 117, 212, 1) 0%, rgba(42, 62, 113, 1) 100%);
+    border: none;
+}
+
+label {
+    margin: 0 22px;
+}
+
+input {
+    margin: 0 22px;
+    border-top-right-radius: 200px !important;
+    border-bottom-left-radius: 200px !important;
+    max-width: 500px;
+}
+
+.forgot-password {
+    margin: 20px 20px;
+    color: darkgrey;
+}
+
+.login-button {
+    text-align: center;
+    margin: 10px 50px;
+    background-color: lightgrey !important;
+}
