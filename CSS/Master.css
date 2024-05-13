@@ -63,3 +63,8 @@ footer {
 .footer-links {
     text-decoration: none !important;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+}
