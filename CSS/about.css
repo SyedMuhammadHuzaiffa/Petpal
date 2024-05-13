@@ -1,0 +1,132 @@
+.head-div {
+    padding: 10px 50px;
+    background: rgb(156, 168, 229);
+    background: linear-gradient(90deg, rgba(156, 168, 229, 1) 0%, rgba(115, 115, 116, 1) 100%);
+}
+
+.head-div-text {
+    padding-top: 20px;
+    padding-right: 0;
+}
+
+.head-div-images {
+    text-align: right;
+}
+
+.paw-print-right {
+    transform: rotate(-45deg);
+}
+
+.paw-print-left {
+    position: relative;
+    bottom: 20px;
+}
+
+
+.first-div {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.firstd-img-left {
+    display: inline;
+    text-align: left;
+}
+
+.firstd-img-right {
+    display: inline;
+    text-align: right;
+    position: absolute;
+    top: 450px;
+    left: 400px;
+    border-radius: 50px;
+}
+
+
+.firstd-left {
+    text-align: left;
+    padding-left: 200px;
+}
+
+.firstd-right {
+    padding-left: 100px;
+    text-align: left;
+}
+
+.firstd-para {
+    max-width: 400px;
+}
+
+.firstd-h1,
+.firstd-h4 {
+    color: rgb(80, 117, 214) !important;
+
+}
+
+.circle {
+    background: rgb(156, 168, 229);
+    background: linear-gradient(180deg, rgba(80, 117, 212, 1) 0%, rgba(42, 62, 113, 1) 100%);
+    border-radius: 100px;
+    border: none;
+    min-height: 110px;
+    min-width: 110px;
+    font-weight: 800;
+    color: white;
+}
+
+.circle:hover {
+    background: rgb(156, 168, 229);
+    background: linear-gradient(180deg, rgba(42, 62, 113, 1) 0%, rgba(80, 117, 212, 1) 100%);
+}
+
+
+.second-div {
+    text-align: center;
+    padding: 50px 0;
+    background-color: rgb(80, 117, 214) !important;
+
+}
+
+.card {
+    border: none !important;
+    text-align: center;
+    max-width: 350px;
+    min-height: 300px;
+    min-width: 280px;
+    margin: 50px 200px;
+    background-color: #D9D9D9;
+    border: none;
+    border-top-right-radius: 100px !important;
+    border-bottom-left-radius: 100px !important;
+}
+
+.card-group-secondd {
+    text-align: center;
+}
+
+.secondd-button:hover {
+    box-shadow: 0 12px 16px 0 rgba(53, 101, 221, 0.44), 0 17px 50px 0 rgba(53, 101, 221, 0.19);
+}
+
+.para {
+    padding-top: 20px;
+}
+
+.thirdd-h1,
+.thirdd-h3 {
+    color: rgb(80, 117, 214) !important;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.card-group-person {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.card-person {
+    border-radius: none !important;
+    background-color: white !important;
+    max-width: 405px;
+    max-height: 392px;
+}
